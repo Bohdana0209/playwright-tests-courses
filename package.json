@@ -1,0 +1,23 @@
+{
+  "name": "playwright-tests-courses",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node js_intro/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bohdana0209/playwright-tests-courses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bohdana0209/playwright-tests-courses/issues"
+  },
+  "homepage": "https://github.com/Bohdana0209/playwright-tests-courses#readme",
+  "dependencies": {
+    "chalk": "^5.6.0"
+  }
+}
